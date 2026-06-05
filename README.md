@@ -1,6 +1,15 @@
 # 💫 About Me:
-I build full-stack web applications and actively practice problem solving.<br><br>Currently:<br>- Developing a Student Study Planner using the MERN stack (auth, tracking, analytics)<br>- Solved 150+ problems on LeetCode with focus on patterns and optimization<br><br>Interests:<br>- Backend development and API design<br>- Scalable architecture and clean code practices<br>- Data Structures and Algorithms<br><br>Open to:<br>- Collaborating on real-world web applications<br>- Contributing to open-source projects<br><br>Learning:<br>- Advanced DSA (graphs, dynamic programming)<br>- Backend internals and database optimization<br>- System design fundamentals<br><br>Ask me about:<br>- Breaking down coding problems efficiently<br>- Structuring MERN projects from scratch<br><br>Note:<br>
+Full-stack developer focused on building scalable web apps, optimizing backend systems, and mastering Data Structures & Algorithms.<br><br>
 
+Problem Solving:<br>
+- 200+ LeetCode problems solved, focusing on pattern recognition and optimization<br><br>
+
+Core Tech:<br>
+- MERN stack, API design, and clean code architecture<br><br>
+
+Technical Focus & Learning:<br>
+- Learning: System design, database optimization, and DSA (Graphs, DP)<br>
+- Interests: Scalable architecture, backend internals, and robust API design
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/suryanshsinghtomar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:singhtomarsuryansh6@gmail.com) 
