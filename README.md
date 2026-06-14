@@ -1,7 +1,7 @@
 # 💫 About Me:
 Full-stack developer focused on building scalable web apps, optimizing backend systems, and mastering Data Structures & Algorithms.<br><br>
 Problem Solving:<br>
-- 200+ LeetCode problems solved, focusing on pattern recognition and optimization<br><br>
+- 250+ LeetCode problems solved, focusing on pattern recognition and optimization<br><br>
 Core Tech:<br>
 - MERN stack, API design, and clean code architecture<br><br>
 Technical Focus & Learning:<br>
